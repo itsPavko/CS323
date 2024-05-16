@@ -1,0 +1,55 @@
+9
+Koji je glavni grad Srbije?
+Beograd
+Novi Sad
+Nis
+0
+1
+Koji je najveci kontinent na svetu?
+Azija
+Afrika
+Evropa
+0
+1
+Koji je naziv najpoznatijeg srpskog srednjovekovnog manastira?
+Studenica
+Djurdjevi Stupovi
+Sopocani
+2
+1
+Koji je prvi srpski car?
+Dusan Silni
+Stefan Nemanja
+Milos Obilic
+0
+2
+Koji je naziv cuvene ljubavne drame Williama Shakespearea?
+Hamlet
+Othello
+Romeo i Julija
+2
+2
+Koja zemlja se nalazi na najvecem broju kontinenata?
+Rusija
+Kanada
+Australija
+0
+2
+Koji je najveci vodopad na svetu?
+Niagara
+Iguacu
+Viktorijini vodopadi
+2
+3
+Koja je najstarija univerzitetska ustanova u Evropi?
+Univerzitet u Bolonji
+Univerzitet u Oksfordu
+Univerzitet u Salamanki
+0
+3
+Koji je najstariji egipatski piramidalni kompleks?
+Giza
+Saqqara
+Abu Rawash
+1
+3

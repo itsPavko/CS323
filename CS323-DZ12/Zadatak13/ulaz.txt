@@ -1,0 +1,5 @@
+Ime1 Prezime1 Adresa1 Telefon1 1990 06.01.1990
+Ime2 Prezime2 Adresa2 Telefon2 1995 05.02.1995
+Ime3 Prezime3 Adresa3 Telefon3 1985 04.03.1985
+Ime4 Prezime4 Adresa4 Telefon4 1982 02.04.1975
+Ime5 Prezime5 Adresa5 Telefon5 1981 03.05.1988

@@ -1,0 +1,10 @@
+﻿  Main.c
+C:\Users\BiG\Desktop\CS323-PZ01\CS323-PZ01\Main.c(194,18): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\BiG\Desktop\CS323-PZ01\CS323-PZ01\Main.c(199,18): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\BiG\Desktop\CS323-PZ01\CS323-PZ01\Main.c(245,23): warning C4101: 'remainingIndex2': unreferenced local variable
+C:\Users\BiG\Desktop\CS323-PZ01\CS323-PZ01\Main.c(273,6): warning C4101: 'numberOfQuestionsForSecondLevel': unreferenced local variable
+C:\Users\BiG\Desktop\CS323-PZ01\CS323-PZ01\Main.c(275,6): warning C4101: 'playerIndex': unreferenced local variable
+C:\Users\BiG\Desktop\CS323-PZ01\CS323-PZ01\Main.c(272,6): warning C4101: 'numberOfQuestionsForFirstLevel': unreferenced local variable
+C:\Users\BiG\Desktop\CS323-PZ01\CS323-PZ01\Main.c(274,6): warning C4101: 'numberOfQuestionsForThirdLevel': unreferenced local variable
+C:\Users\BiG\Desktop\CS323-PZ01\CS323-PZ01\Main.c(291,7): warning C4101: 'accAnswer': unreferenced local variable
+  CS323-PZ01.vcxproj -> C:\Users\BiG\Desktop\CS323-PZ01\x64\Debug\CS323-PZ01.exe

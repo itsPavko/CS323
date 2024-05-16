@@ -1,0 +1,4 @@
+﻿  Main.c
+C:\Users\BiG\Desktop\CS323-PZ01\CS323-PZ01\Main.c(1,1): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+C:\Users\BiG\Desktop\CS323-PZ01\CS323-PZ01\Main.c : message : see previous definition of '_CRT_SECURE_NO_WARNINGS'
+  CS323-PZ01.vcxproj -> C:\Users\BiG\Desktop\Debug\CS323-PZ01.exe

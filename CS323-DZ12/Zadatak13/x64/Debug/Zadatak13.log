@@ -1,0 +1,4 @@
+﻿  Main.cpp
+C:\Users\BiG\Desktop\CS323-DZ11\Zadatak13\Main.cpp(49,17): warning C4566: character represented by universal-character-name '\u0111' cannot be represented in the current code page (1252)
+C:\Users\BiG\Desktop\CS323-DZ11\Zadatak13\Main.cpp(52,17): warning C4566: character represented by universal-character-name '\u0111' cannot be represented in the current code page (1252)
+  Zadatak13.vcxproj -> C:\Users\BiG\Desktop\CS323-DZ11\x64\Debug\Zadatak13.exe
